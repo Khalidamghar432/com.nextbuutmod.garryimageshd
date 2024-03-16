@@ -12,37 +12,37 @@
         {
           "id": 1,
           "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "path": "https://avatars.mds.yandex.net/i?id=9ef176f93979e69d8e8e4877b357d8b941966c9d-4275701-images-thumbs&n=13"
         },
         {
           "id": 2,
           "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "path": "https://avatars.mds.yandex.net/i?id=0fb0e1b1673709f84d1a4ea713f2fe38cf539d4a-10350336-images-thumbs&n=13"
         },
         {
           "id": 3,
           "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "path": "https://avatars.mds.yandex.net/i?id=ab20b3c121c53ea1ccd0f11728b8e90f9b8f5d07-6903367-images-thumbs&n=13"
         },
         {
           "id": 4,
           "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "path": "https://avatars.mds.yandex.net/i?id=a2770638d866b08bd8bdb94d61cd53e5-5233966-images-thumbs&n=13"
         },
         {
           "id": 5,
           "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "path": "https://avatars.mds.yandex.net/i?id=cc929d02ce26ff5077c2f88fab37d8fe072735c4-11271031-images-thumbs&n=13"
         },
         {
           "id": 6,
           "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "path": "https://avatars.mds.yandex.net/i?id=57818919ae4e9fa55c268cca3e5e258ffca6199d-7989082-images-thumbs&n=13"
         },
         {
           "id": 7,
           "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "path": "https://avatars.mds.yandex.net/i?id=85ad171a19660d05fb54d26562332047385f62c5-12585680-images-thumbs&n=13"
         }
       ]
     },
