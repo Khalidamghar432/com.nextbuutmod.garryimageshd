@@ -1,140 +1,140 @@
 {
   "categories": [
     {
-      "name": "category name_1",
+      "name": "nextbot for garry s mod_1",
       "preview": "https://avatars.mds.yandex.net/i?id=2d0b0389ddc1716081a6bb371f855101a82b1de8-12544737-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_1",
+          "category": "nextbot for garry s mod_1",
           "path": "https://avatars.mds.yandex.net/i?id=ef6c01eed3e10c8a038e5265d2045d04216da3b8-10878270-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_1",
+          "category": "nextbot for garry s mod_1",
           "path": "https://avatars.mds.yandex.net/i?id=9ef176f93979e69d8e8e4877b357d8b941966c9d-4275701-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_1",
+          "category": "nextbot for garry s mod_1",
           "path": "https://avatars.mds.yandex.net/i?id=0fb0e1b1673709f84d1a4ea713f2fe38cf539d4a-10350336-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_1",
+          "category": "nextbot for garry s mod_1",
           "path": "https://avatars.mds.yandex.net/i?id=ab20b3c121c53ea1ccd0f11728b8e90f9b8f5d07-6903367-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_1",
+          "category": "nextbot for garry s mod_1",
           "path": "https://avatars.mds.yandex.net/i?id=a2770638d866b08bd8bdb94d61cd53e5-5233966-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_1",
+          "category": "nextbot for garry s mod_1",
           "path": "https://avatars.mds.yandex.net/i?id=cc929d02ce26ff5077c2f88fab37d8fe072735c4-11271031-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_1",
+          "category": "nextbot for garry s mod_1",
           "path": "https://avatars.mds.yandex.net/i?id=57818919ae4e9fa55c268cca3e5e258ffca6199d-7989082-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_1",
+          "category": "nextbot for garry s mod_1",
           "path": "https://avatars.mds.yandex.net/i?id=85ad171a19660d05fb54d26562332047385f62c5-12585680-images-thumbs&n=13"
         }
       ]
     },
     {
-      "name": "category_name_2",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true",
+      "name": "nextbot for garry s mod_2",
+      "preview": "https://avatars.mds.yandex.net/i?id=f29b2d036c32397a39546fc276e61b22f33dc76b-10638828-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true"
+          "category": "nextbot for garry s mod_2",
+          "path": "https://avatars.mds.yandex.net/i?id=64b314329209f54bac0b24d29ae8ddd48ed3a48c-10930201-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot for garry s mod_2",
+          "path": "https://avatars.mds.yandex.net/i?id=9a52926c561af1f4c0e7394d223f3496b70e4202-10465625-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot for garry s mod_2",
+          "path": "https://avatars.mds.yandex.net/i?id=356b163259f80730bc7fb357abf1e555990469eb-10871821-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot for garry s mod_2",
+          "path": "https://avatars.mds.yandex.net/i?id=e25e8dc096deccf4b19b51bdd3181aee9b4d2c33-10963969-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot for garry s mod_2",
+          "path": "https://avatars.mds.yandex.net/i?id=68b513d97901e2ae53170755b3e268e55d0f11ad-5233584-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot for garry s mod_2",
+          "path": "https://avatars.mds.yandex.net/i?id=90d8ff521f45f6650191ad02393b945713f987cc-10385057-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot for garry s mod_2",
+          "path": "https://avatars.mds.yandex.net/i?id=28a4d96d1181965a9929397cff043ffe1e07ee6e-10831694-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot for garry s mod_2",
+          "path": "https://avatars.mds.yandex.net/i?id=9cdb63ad5d8998a660215fb319764bb515df0116-10025687-images-thumbs&n=13"
         }
       ]
     },
     {
-      "name": "category_name_3",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
+      "name": "nextbot for garry s mod3",
+      "preview": "https://avatars.mds.yandex.net/i?id=534053b580292b5f35c7739941508027f56278d7-10869728-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot for garry s mod_3",
+          "path": "https://avatars.mds.yandex.net/i?id=6741dd669b8fa7756d4069a2431446e8ed97e727-8322579-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot for garry s mod_3",
+          "path": "https://avatars.mds.yandex.net/i?id=3279337c2b8dd9a3da7e2f7c05c747af0f26659f-10701428-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot for garry s mod_3",
+          "path": "https://avatars.mds.yandex.net/i?id=3279337c2b8dd9a3da7e2f7c05c747af0f26659f-10701428-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot for garry s mod_3",
+          "path": "https://avatars.mds.yandex.net/i?id=6ae991edc9f6899fa2e4852f09a8c37ffa955d14-10158687-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot for garry s mod_3",
+          "path": "https://avatars.mds.yandex.net/i?id=d3e035516a115bf260835c404f46511b30cc795a-10767526-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot for garry s mod_3",
+          "path": "https://avatars.mds.yandex.net/i?id=89aa10359903783c6ca16c43bfbebc901a261c03-10995265-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot for garry s mod_3",
+          "path": "https://avatars.mds.yandex.net/i?id=a80384a99fc8110911bf1e07a04355aa9872d4f6-12146892-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "nextbot for garry s mod_3",
+          "path": "https://avatars.mds.yandex.net/i?id=b5444d4c07a292d05c327885228608e2737b192b-7973815-images-thumbs&n=13"
         }
       ]
     },
