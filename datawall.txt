@@ -135,10 +135,7 @@
           "id": 7,
           "category": "nextbot for garry s mod_3",
           "path": "https://avatars.mds.yandex.net/i?id=b5444d4c07a292d05c327885228608e2737b192b-7973815-images-thumbs&n=13"
-        }
-      ]
-    },
-    
+       }
       ]
     }
   ]
